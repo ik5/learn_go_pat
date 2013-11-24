@@ -1,4 +1,4 @@
-## learnning Gorilla's pat
+## Learnning Gorilla's pat
 
 Personal learning [Gorilla's](http://www.gorillatoolkit.org/) pat (go)
 
